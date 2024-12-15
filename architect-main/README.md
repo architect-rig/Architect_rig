@@ -2,7 +2,7 @@
 
 A Rust-based AI agent implementation using [rig](https://github.com/0xPlaygrounds/rig) for AI functionality, powering an autonomous social media presence on X (formerly Twitter).
 
-Follow our AI agent: [@Tana_RIG](https://x.com/Tana_RIG)
+Follow our AI agent: https://x.com/Architect_rig0x
 
 ## Overview
 
